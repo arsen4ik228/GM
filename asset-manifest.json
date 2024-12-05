@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.52dc2183.css",
-    "main.js": "./static/js/main.58f796fa.js",
+    "main.css": "./static/css/main.cd47c81b.css",
+    "main.js": "./static/js/main.301545f6.js",
     "static/js/453.0c0fd7ec.chunk.js": "./static/js/453.0c0fd7ec.chunk.js",
+    "static/media/telegram.svg": "./static/media/telegram.b0c9667640d56263e4647585e0f4fb52.svg",
     "static/media/icon _ attach policy.svg": "./static/media/icon _ attach policy.d38b29b58bf5df41c1a3977b559a0689.svg",
     "static/media/icon _ strategy.svg": "./static/media/icon _ strategy.9f3296cd5645e22634a280dc00711f5f.svg",
     "static/media/blackStatistic.svg": "./static/media/blackStatistic.659864f0c6895a07680bbfc159823032.svg",
@@ -40,12 +41,12 @@
     "static/media/icon _ uparrow _ 005475.svg": "./static/media/icon _ uparrow _ 005475.e100e3bb671edb2a5c12.svg",
     "static/media/icon _ uparrow _ white.svg": "./static/media/icon _ uparrow _ white.fb1ec992b406e9f1f6fd.svg",
     "static/media/icon _ downarrow _ 005475.svg": "./static/media/icon _ downarrow _ 005475.24507ab03ea8ee93e5a080265252249d.svg",
-    "main.52dc2183.css.map": "./static/css/main.52dc2183.css.map",
-    "main.58f796fa.js.map": "./static/js/main.58f796fa.js.map",
+    "main.cd47c81b.css.map": "./static/css/main.cd47c81b.css.map",
+    "main.301545f6.js.map": "./static/js/main.301545f6.js.map",
     "453.0c0fd7ec.chunk.js.map": "./static/js/453.0c0fd7ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52dc2183.css",
-    "static/js/main.58f796fa.js"
+    "static/css/main.cd47c81b.css",
+    "static/js/main.301545f6.js"
   ]
 }
