@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9a6b02f2.css",
-    "main.js": "./static/js/main.06444b6b.js",
+    "main.css": "./static/css/main.339523a3.css",
+    "main.js": "./static/js/main.8ecd1395.js",
     "static/js/453.0c0fd7ec.chunk.js": "./static/js/453.0c0fd7ec.chunk.js",
     "static/media/logo.svg": "./static/media/logo.fe0072e2106fb96d87023aca8788ef4a.svg",
     "static/media/telegram.svg": "./static/media/telegram.b0c9667640d56263e4647585e0f4fb52.svg",
@@ -13,6 +13,7 @@
     "static/media/messendger _ avatar.svg": "./static/media/messendger _ avatar.fe50163b6cd22b4d655ca7f9055785b2.svg",
     "static/media/icon _ post.svg": "./static/media/icon _ post.4b7b5340bc803dd25f7ed70863efc80d.svg",
     "static/media/iconHeader.svg": "./static/media/iconHeader.89487700acdd06de7743bb3898e24b6b.svg",
+    "static/media/icon _ list setting.svg": "./static/media/icon _ list setting.e9437b5f194e7c4aa5f2dc29c3f0fec2.svg",
     "static/media/icon _ list view.svg": "./static/media/icon _ list view.ec8b94922160ad1d650f9d75a0dea5ca.svg",
     "static/media/delete.svg": "./static/media/delete.02346ff21208123530a54256266a1dcc.svg",
     "static/media/icon _ add.svg": "./static/media/icon _ add.2fcd34616b9c0d6c9cb391a304514921.svg",
@@ -42,12 +43,12 @@
     "static/media/icon _ uparrow _ 005475.svg": "./static/media/icon _ uparrow _ 005475.e100e3bb671edb2a5c12.svg",
     "static/media/icon _ uparrow _ white.svg": "./static/media/icon _ uparrow _ white.fb1ec992b406e9f1f6fd.svg",
     "static/media/icon _ downarrow _ 005475.svg": "./static/media/icon _ downarrow _ 005475.24507ab03ea8ee93e5a080265252249d.svg",
-    "main.9a6b02f2.css.map": "./static/css/main.9a6b02f2.css.map",
-    "main.06444b6b.js.map": "./static/js/main.06444b6b.js.map",
+    "main.339523a3.css.map": "./static/css/main.339523a3.css.map",
+    "main.8ecd1395.js.map": "./static/js/main.8ecd1395.js.map",
     "453.0c0fd7ec.chunk.js.map": "./static/js/453.0c0fd7ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a6b02f2.css",
-    "static/js/main.06444b6b.js"
+    "static/css/main.339523a3.css",
+    "static/js/main.8ecd1395.js"
   ]
 }
